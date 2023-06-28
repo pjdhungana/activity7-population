@@ -1,2 +1,2 @@
-# activity7-population
+# activity7
 activity7
